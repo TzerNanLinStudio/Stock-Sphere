@@ -1,0 +1,13 @@
+services:
+  dev:
+    build: .
+    ports:
+      - "8000:8000"         # FastAPI port
+      - "3306:3306"         # MySQL port
+    volumes:
+      - .:/workspace        # Mount current directory to /workspace in the container
+    environment:
+      - PYTHONUNBUFFERED=1  # Ensures that Python output is sent straight to the terminal
+    stdin_open: true        # Keep stdin open (equivalent to docker run -i)
+    tty: true               # Allocate a terminal (equivalent to docker run -t)
+    working_dir: /workspace

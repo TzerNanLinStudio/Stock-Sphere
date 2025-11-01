@@ -1,0 +1,4002 @@
+[
+  {
+    "Ticker symbol":"MMM",
+    "Company":"3M Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"St Paul, Minnesota",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ABT",
+    "Company":"Abbott Laboratories",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"North Chicago, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ABBV",
+    "Company":"AbbVie",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"North Chicago, Illinois",
+    "Date first added":"2013-01-02"
+  },
+  {
+    "Ticker symbol":"ANF",
+    "Company":"Abercrombie & Fitch Company A",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"New Albany, Ohio",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ACE",
+    "Company":"ACE Limited",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Zurich, Switzerland",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ACN",
+    "Company":"Accenture",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Dublin, Ireland",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ACT",
+    "Company":"Actavis Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Parsippany, New Jersey",
+    "Date first added":"2013-01-24"
+  },
+  {
+    "Ticker symbol":"ADBE",
+    "Company":"Adobe Systems Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"San Jose, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ADT",
+    "Company":"ADT Corp",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Boca Raton, Florida",
+    "Date first added":"2012-10-01"
+  },
+  {
+    "Ticker symbol":"AMD",
+    "Company":"Advanced Micro Devices",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Sunnyvale, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AES",
+    "Company":"AES Corp",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Arlington, Virginia",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AET",
+    "Company":"Aetna Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Hartford, Connecticut",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AFL",
+    "Company":"AFLAC Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Columbus, Georgia",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"A",
+    "Company":"Agilent Technologies Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Santa Clara, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"GAS",
+    "Company":"AGL Resources Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Atlanta, Georgia",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"APD",
+    "Company":"Air Products & Chemicals Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Allentown, Pennsylvania",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ARG",
+    "Company":"Airgas Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Radnor, Pennsylvania",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AKAM",
+    "Company":"Akamai Technologies Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Cambridge, Massachusetts",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AA",
+    "Company":"Alcoa Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ALXN",
+    "Company":"Alexion Pharmaceuticals",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Cheshire, Connecticut",
+    "Date first added":"2012-05-24"
+  },
+  {
+    "Ticker symbol":"ATI",
+    "Company":"Allegheny Technologies Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Pittsburgh, Pennsylvania",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AGN",
+    "Company":"Allergan Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Irvine, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ALL",
+    "Company":"Allstate Corp",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Northfield Township, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ALTR",
+    "Company":"Altera Corp",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"San Jose, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"MO",
+    "Company":"Altria Group Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Richmond, Virginia",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AMZN",
+    "Company":"Amazon.com Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Seattle, Washington",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"AEE",
+    "Company":"Ameren Corp",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"St. Louis, Missouri",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AEP",
+    "Company":"American Electric Power",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Columbus, Ohio",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AXP",
+    "Company":"American Express Co",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AIG",
+    "Company":"American Intl Group Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AMT",
+    "Company":"American Tower Corp A",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Boston, Massachusetts",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AMP",
+    "Company":"Ameriprise Financial",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Minneapolis, Minnesota",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ABC",
+    "Company":"AmerisourceBergen Corp",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Chesterbrook, Pennsylvania",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AMGN",
+    "Company":"Amgen Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Thousand Oaks, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"APH",
+    "Company":"Amphenol Corp A",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Wallingford, Connecticut",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"APC",
+    "Company":"Anadarko Petroleum Corp",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"The Woodlands, Texas",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ADI",
+    "Company":"Analog Devices Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Norwood, Massachusetts",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AON",
+    "Company":"Aon plc",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"London,United Kingdom",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"APA",
+    "Company":"Apache Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AIV",
+    "Company":"Apartment Investment & Mgmt",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Denver, Colorado",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"APOL",
+    "Company":"Apollo Group Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Phoenix, Arizona",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AAPL",
+    "Company":"Apple Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Cupertino, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AMAT",
+    "Company":"Applied Materials Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Santa Clara, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ADM",
+    "Company":"Archer-Daniels-Midland Co",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Decatur, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AIZ",
+    "Company":"Assurant Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"T",
+    "Company":"AT&T Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Telecommunications Services",
+    "Address of Headquarters":"Dallas, Texas",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ADSK",
+    "Company":"Autodesk Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"San Rafael, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ADP",
+    "Company":"Automatic Data Processing",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Roseland, New Jersey",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AN",
+    "Company":"AutoNation Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Fort Lauderdale, Florida",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AZO",
+    "Company":"AutoZone Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Memphis, Tennessee",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AVB",
+    "Company":"AvalonBay Communities, Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Arlington, Virginia[1]",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AVY",
+    "Company":"Avery Dennison Corp",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Pasadena, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"AVP",
+    "Company":"Avon Products",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BHI",
+    "Company":"Baker Hughes Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BLL",
+    "Company":"Ball Corp",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Broomfield, Colorado",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BAC",
+    "Company":"Bank of America Corp",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Charlotte, North Carolina",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BK",
+    "Company":"The Bank of New York Mellon Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BCR",
+    "Company":"Bard (C.R.) Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Murray Hill, New Jersey",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BAX",
+    "Company":"Baxter International Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Deerfield, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BBT",
+    "Company":"BB&T Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Winston-Salem, North Carolina",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BEAM",
+    "Company":"Beam Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Deerfield, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BDX",
+    "Company":"Becton Dickinson",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Franklin Lakes, New Jersey",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BBBY",
+    "Company":"Bed Bath & Beyond",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Union, New Jersey",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BMS",
+    "Company":"Bemis Company",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Neenah, Wisconsin",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BRK.B",
+    "Company":"Berkshire Hathaway",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Omaha, Nebraska",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BBY",
+    "Company":"Best Buy Co. Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Richfield, Minnesota",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BIG",
+    "Company":"Big Lots Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Columbus, Ohio",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BIIB",
+    "Company":"BIOGEN IDEC Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Weston, Massachusetts",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BLK",
+    "Company":"BlackRock",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"HRB",
+    "Company":"Block H&R",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Kansas City, Missouri",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BMC",
+    "Company":"BMC Software",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BA",
+    "Company":"Boeing Company",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Chicago, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BWA",
+    "Company":"BorgWarner",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Auburn Hills, Michigan",
+    "Date first added":"2011-12-16"
+  },
+  {
+    "Ticker symbol":"BXP",
+    "Company":"Boston Properties",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Boston, Massachusetts",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BSX",
+    "Company":"Boston Scientific",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Natick, Massachusetts",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BMY",
+    "Company":"Bristol-Myers Squibb",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BRCM",
+    "Company":"Broadcom Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Irvine, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BF.B",
+    "Company":"Brown-Forman Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Louisville, Kentucky",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CHRW",
+    "Company":"C. H. Robinson Worldwide",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Eden Prairie, Minnesota",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CA",
+    "Company":"CA, Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Islandia, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CVC",
+    "Company":"Cablevision Systems Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Bethpage, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"COG",
+    "Company":"Cabot Oil & Gas",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"CAM",
+    "Company":"Cameron International Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"CPB",
+    "Company":"Campbell Soup",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Camden, New Jersey",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"COF",
+    "Company":"Capital One Financial",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Tysons Corner, Virginia",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CAH",
+    "Company":"Cardinal Health Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Dublin, Ohio",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"CFN",
+    "Company":"Carefusion",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"San Diego, California[2]",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"KMX",
+    "Company":"Carmax Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Richmond, Virginia",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CCL",
+    "Company":"Carnival Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Miami, Florida",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"CAT",
+    "Company":"Caterpillar Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Peoria, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CBG",
+    "Company":"CBRE Group",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Los Angeles, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CBS",
+    "Company":"CBS Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CELG",
+    "Company":"Celgene Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Summit, New Jersey",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"CNP",
+    "Company":"CenterPoint Energy",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"CTL",
+    "Company":"CenturyLink Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Telecommunications Services",
+    "Address of Headquarters":"Monroe, Louisiana",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"CERN",
+    "Company":"Cerner",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"North Kansas City, Missouri",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"CF",
+    "Company":"CF Industries Holdings Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Deerfield, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"SCHW",
+    "Company":"Charles Schwab",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"San Francisco, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CHK",
+    "Company":"Chesapeake Energy",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Oklahoma City, Oklahoma",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"CVX",
+    "Company":"Chevron Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"San Ramon, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CMG",
+    "Company":"Chipotle Mexican Grill",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Denver, Colorado",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CB",
+    "Company":"Chubb Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Warren, New Jersey",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CI",
+    "Company":"CIGNA Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Philadelphia, Pennsylvania",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CINF",
+    "Company":"Cincinnati Financial",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Fairfield, Ohio",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CTAS",
+    "Company":"Cintas Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Mason, Ohio",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CSCO",
+    "Company":"Cisco Systems",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"San Jose, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"C",
+    "Company":"Citigroup Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CTXS",
+    "Company":"Citrix Systems",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Fort Lauderdale, Florida",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"CLF",
+    "Company":"Cliffs Natural Resources",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Cleveland, Ohio",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"CLX",
+    "Company":"The Clorox Company",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Oakland, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CME",
+    "Company":"CME Group Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Chicago, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CMS",
+    "Company":"CMS Energy",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Jackson, Michigan",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"COH",
+    "Company":"Coach Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"KO",
+    "Company":"The Coca Cola Company",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Atlanta, Georgia",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"CCE",
+    "Company":"Coca-Cola Enterprises",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Atlanta, Georgia",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"CTSH",
+    "Company":"Cognizant Technology Solutions",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Teaneck, New Jersey",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"CL",
+    "Company":"Colgate-Palmolive",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CMCSA",
+    "Company":"Comcast Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Philadelphia, Pennsylvania",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CMA",
+    "Company":"Comerica Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Dallas, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"CSC",
+    "Company":"Computer Sciences Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Falls Church, Virginia",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CAG",
+    "Company":"ConAgra Foods Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Omaha, Nebraska",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"COP",
+    "Company":"ConocoPhillips",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CNX",
+    "Company":"CONSOL Energy Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Cecil Township, Pennsylvania",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ED",
+    "Company":"Consolidated Edison",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"STZ",
+    "Company":"Constellation Brands",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Victor, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"GLW",
+    "Company":"Corning Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Corning, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"COST",
+    "Company":"Costco Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Issaquah, Washington",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CVH",
+    "Company":"Coventry Health Care Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Bethesda, Maryland",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"COV",
+    "Company":"Covidien plc",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Dublin, Ireland",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CCI",
+    "Company":"Crown Castle International Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Telecommunications Services",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CSX",
+    "Company":"CSX Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Jacksonville, Florida",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CMI",
+    "Company":"Cummins Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Columbus, Indiana",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CVS",
+    "Company":"CVS Caremark Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Woonsocket, Rhode Island",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DHI",
+    "Company":"D. R. Horton",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Fort Worth, Texas",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DHR",
+    "Company":"Danaher Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Washington D.C",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DRI",
+    "Company":"Darden Restaurants",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Orlando, Florida",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DVA",
+    "Company":"DaVita Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Denver, Colorado",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DF",
+    "Company":"Dean Foods",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Dallas, Texas",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DE",
+    "Company":"Deere & Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Moline, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DELL",
+    "Company":"Dell Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Round Rock, Texas",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DLPH",
+    "Company":"Delphi Automotive",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Gillingham, Kent,United Kingdom",
+    "Date first added":"2012-12-24"
+  },
+  {
+    "Ticker symbol":"DNR",
+    "Company":"Denbury Resources Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Plano, Texas[3]",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"XRAY",
+    "Company":"Dentsply International",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"York, Pennsylvania",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DVN",
+    "Company":"Devon Energy Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Oklahoma City, Oklahoma",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DO",
+    "Company":"Diamond Offshore Drilling",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DTV",
+    "Company":"DirecTV",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"El Segundo, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DFS",
+    "Company":"Discover Financial Services",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Riverwoods, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DISCA",
+    "Company":"Discovery Communications",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Silver Spring, Maryland",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DG",
+    "Company":"Dollar General",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Goodlettsville, Tennessee",
+    "Date first added":"2012-12-03"
+  },
+  {
+    "Ticker symbol":"DLTR",
+    "Company":"Dollar Tree",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Chesapeake, Virginia",
+    "Date first added":"2011-12-16"
+  },
+  {
+    "Ticker symbol":"D",
+    "Company":"Dominion Resources",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Richmond, Virginia",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DOV",
+    "Company":"Dover Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Downers Grove, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DOW",
+    "Company":"Dow Chemical",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Midland, Michigan",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DPS",
+    "Company":"Dr Pepper Snapple Group",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Plano, Texas",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DTE",
+    "Company":"DTE Energy Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Detroit, Michigan",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DD",
+    "Company":"Du Pont (E.I.)",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Wilmington, Delaware",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DUK",
+    "Company":"Duke Energy",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Charlotte, North Carolina",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DNB",
+    "Company":"Dun & Bradstreet",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Short Hills, New Jersey",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ETFC",
+    "Company":"E-Trade",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"EMN",
+    "Company":"Eastman Chemical",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Kingsport, Tennessee",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"ETN",
+    "Company":"Eaton Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Cleveland, Ohio",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"EBAY",
+    "Company":"eBay Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"San Jose, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ECL",
+    "Company":"Ecolab Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"St. Paul, Minnesota",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"EIX",
+    "Company":"Edison Int'l",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Rosemead, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"EW",
+    "Company":"Edwards Lifesciences",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Irvine, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"EA",
+    "Company":"Electronic Arts",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Redwood City, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"EMC",
+    "Company":"EMC Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Hopkinton, Massachusetts",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"EMR",
+    "Company":"Emerson Electric",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Ferguson, Missouri",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"ESV",
+    "Company":"Ensco plc",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"London, United Kingdom",
+    "Date first added":"2012-07-30"
+  },
+  {
+    "Ticker symbol":"ETR",
+    "Company":"Entergy Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"New Orleans, Louisiana",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"EOG",
+    "Company":"EOG Resources",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"EQT",
+    "Company":"EQT Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Pittsburgh, Pennsylvania",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"EFX",
+    "Company":"Equifax Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Atlanta, Georgia",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"EQR",
+    "Company":"Equity Residential",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Chicago, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"EL",
+    "Company":"Estee Lauder Cos.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"EXC",
+    "Company":"Exelon Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Chicago, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"EXPE",
+    "Company":"Expedia Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Bellevue, Washington",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"EXPD",
+    "Company":"Expeditors Int'l",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Seattle, Washington",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"ESRX",
+    "Company":"Express Scripts",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Cool Valley, Missouri",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"XOM",
+    "Company":"Exxon Mobil Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Irving, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"FFIV",
+    "Company":"F5 Networks",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Seattle, Washington",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"FDO",
+    "Company":"Family Dollar Stores",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Matthews, North Carolina",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"FAST",
+    "Company":"Fastenal Co",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Winona, Minnesota",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"FDX",
+    "Company":"FedEx Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Memphis, Tennessee",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"FIS",
+    "Company":"Fidelity National Information Services",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Jacksonville, Florida",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"FITB",
+    "Company":"Fifth Third Bancorp",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Cincinnati, Ohio",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"FHN",
+    "Company":"First Horizon National",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Memphis, Tennessee",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"FSLR",
+    "Company":"First Solar Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Tempe, Arizona",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"FE",
+    "Company":"FirstEnergy Corp",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Akron, Ohio",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"FISV",
+    "Company":"Fiserv Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Brookfield, Wisconsin",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"FLIR",
+    "Company":"FLIR Systems",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Wilsonville, Oregon",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"FLS",
+    "Company":"Flowserve Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Irving, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"FLR",
+    "Company":"Fluor Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Irving, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"FMC",
+    "Company":"FMC Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Philadelphia, Pennsylvania",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"FTI",
+    "Company":"FMC Technologies Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"F",
+    "Company":"Ford Motor",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Dearborn, Michigan",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"FRX",
+    "Company":"Forest Laboratories",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"FOSL",
+    "Company":"Fossil, Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Richardson, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"BEN",
+    "Company":"Franklin Resources",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"San Mateo, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"FCX",
+    "Company":"Freeport-McMoran Cp & Gld",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Phoenix, Arizona",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"FTR",
+    "Company":"Frontier Communications",
+    "SEC filings":"reports",
+    "GICSSector":"Telecommunications Services",
+    "Address of Headquarters":"Stamford, Connecticut",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"GME",
+    "Company":"GameStop Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Grapevine, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"GCI",
+    "Company":"Gannett Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"McLean, Virginia",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"GPS",
+    "Company":"Gap (The)",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"San Francisco, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"GRMN",
+    "Company":"Garmin Ltd.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Schaffhausen, Switzerland",
+    "Date first added":"2012-12-12"
+  },
+  {
+    "Ticker symbol":"GD",
+    "Company":"General Dynamics",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Falls Church, Virginia",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"GE",
+    "Company":"General Electric",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Fairfield, Connecticut",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"GIS",
+    "Company":"General Mills",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Golden Valley, Minnesota",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"GPC",
+    "Company":"Genuine Parts",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Atlanta, Georgia",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"GNW",
+    "Company":"Genworth Financial Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Richmond, Virginia",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"GILD",
+    "Company":"Gilead Sciences",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Foster City, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"GS",
+    "Company":"Goldman Sachs Group",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"GT",
+    "Company":"Goodyear Tire & Rubber",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Akron, Ohio",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"GOOG",
+    "Company":"Google Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Mountain View, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"GWW",
+    "Company":"Grainger (W.W.) Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Lake Forest, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"HAL",
+    "Company":"Halliburton Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"HOG",
+    "Company":"Harley-Davidson",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Milwaukee, Wisconsin",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"HAR",
+    "Company":"Harman Int'l Industries",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Stamford, Connecticut",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"HRS",
+    "Company":"Harris Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Melbourne, Florida",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"HIG",
+    "Company":"Hartford Financial Svc.Gp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Hartford, Connecticut",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"HAS",
+    "Company":"Hasbro Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Pawtucket, Rhode Island",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"HCP",
+    "Company":"HCP Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Long Beach, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"HCN",
+    "Company":"Health Care REIT",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Toledo, Ohio[4]",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"HNZ",
+    "Company":"Heinz (H.J.)",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Pittsburgh, Pennsylvania",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"HP",
+    "Company":"Helmerich & Payne",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Tulsa, Oklahoma[5]",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"HES",
+    "Company":"Hess Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"HPQ",
+    "Company":"Hewlett-Packard",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Palo Alto, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"HD",
+    "Company":"Home Depot",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Cobb County, Georgia",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"HON",
+    "Company":"Honeywell Int'l Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Morristown, New Jersey",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"HRL",
+    "Company":"Hormel Foods Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Austin, Minnesota",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"HSP",
+    "Company":"Hospira Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Lake Forest, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"HST",
+    "Company":"Host Hotels & Resorts",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Bethesda, Maryland",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"HCBK",
+    "Company":"Hudson City Bancorp",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Paramus, New Jersey",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"HUM",
+    "Company":"Humana Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Louisville, Kentucky",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"HBAN",
+    "Company":"Huntington Bancshares",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Columbus, Ohio",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"ITW",
+    "Company":"Illinois Tool Works",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Glenview, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"IR",
+    "Company":"Ingersoll-Rand PLC",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Dublin, Ireland",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"TEG",
+    "Company":"Integrys Energy Group Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Chicago, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"INTC",
+    "Company":"Intel Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Santa Clara, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ICE",
+    "Company":"IntercontinentalExchange Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Atlanta, Georgia",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"IBM",
+    "Company":"International Bus. Machines",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Armonk, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"IFF",
+    "Company":"International Flav\/Frag",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"IGT",
+    "Company":"International Game Technology",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Reno, Nevada",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"IP",
+    "Company":"International Paper",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Memphis, Tennessee",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"IPG",
+    "Company":"Interpublic Group",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"INTU",
+    "Company":"Intuit Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Mountain View, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ISRG",
+    "Company":"Intuitive Surgical Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Sunnyvale, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"IVZ",
+    "Company":"Invesco Ltd.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Atlanta, Georgia",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"IRM",
+    "Company":"Iron Mountain Incorporated",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Boston, Massachusetts",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"JBL",
+    "Company":"Jabil Circuit",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"St. Petersburg, Florida",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"JEC",
+    "Company":"Jacobs Engineering Group",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Pasadena, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"JDSU",
+    "Company":"JDS Uniphase Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Milpitas, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"JNJ",
+    "Company":"Johnson & Johnson",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"New Brunswick, New Jersey",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"JCI",
+    "Company":"Johnson Controls",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Milwaukee, Wisconsin",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"JOY",
+    "Company":"Joy Global Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Milwaukee, Wisconsin",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"JPM",
+    "Company":"JPMorgan Chase & Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"JNPR",
+    "Company":"Juniper Networks",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Sunnyvale, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"K",
+    "Company":"Kellogg Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Battle Creek, Michigan",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"KEY",
+    "Company":"KeyCorp",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Cleveland, Ohio",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"KMB",
+    "Company":"Kimberly-Clark",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Irving, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"KIM",
+    "Company":"Kimco Realty",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"New Hyde Park, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"KMI",
+    "Company":"Kinder Morgan",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":"2012-05-24"
+  },
+  {
+    "Ticker symbol":"KLAC",
+    "Company":"KLA-Tencor Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Milpitas, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"KSS",
+    "Company":"Kohl's Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Menomonee Falls, Wisconsin",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"KRFT",
+    "Company":"Kraft Foods Group",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Northfield, Illinois",
+    "Date first added":"2012-10-02"
+  },
+  {
+    "Ticker symbol":"KR",
+    "Company":"Kroger Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Cincinnati, Ohio",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"LLL",
+    "Company":"L-3 Communications Holdings",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"LH",
+    "Company":"Laboratory Corp. of America Holding",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Burlington, North Carolina",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"LRCX",
+    "Company":"Lam Research",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Fremont, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"LM",
+    "Company":"Legg Mason",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Baltimore, Maryland",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"LEG",
+    "Company":"Leggett & Platt",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Carthage, Missouri",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"LEN",
+    "Company":"Lennar Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Miami, Florida",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"LUK",
+    "Company":"Leucadia National Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"LIFE",
+    "Company":"Life Technologies",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Carlsbad, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"LLY",
+    "Company":"Lilly (Eli) & Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Indianapolis, Indiana",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"LTD",
+    "Company":"Limited Brands Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Columbus, Ohio",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"LNC",
+    "Company":"Lincoln National",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Radnor, Pennsylvania",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"LLTC",
+    "Company":"Linear Technology Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Milpitas, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"LMT",
+    "Company":"Lockheed Martin Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Bethesda, Maryland",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"L",
+    "Company":"Loews Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"LO",
+    "Company":"Lorillard Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Greensboro, North Carolina",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"LOW",
+    "Company":"Lowe's Cos.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Mooresville, North Carolina",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"LSI",
+    "Company":"LSI Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Milpitas, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"LYB",
+    "Company":"LyondellBasell",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Rotterdam, Netherlands",
+    "Date first added":"2012-09-05"
+  },
+  {
+    "Ticker symbol":"MTB",
+    "Company":"M&T Bank Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Buffalo, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"M",
+    "Company":"Macy's Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Cincinnati, Ohio",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"MRO",
+    "Company":"Marathon Oil Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"MPC",
+    "Company":"Marathon Petroleum",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Findlay, Ohio",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"MAR",
+    "Company":"Marriott Int'l.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Bethesda, Maryland",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"MMC",
+    "Company":"Marsh & McLennan",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"MAS",
+    "Company":"Masco Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Taylor, Michigan",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"MA",
+    "Company":"Mastercard Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Harrison, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"MAT",
+    "Company":"Mattel Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"El Segundo, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"MKC",
+    "Company":"McCormick & Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Sparks, Maryland",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"MCD",
+    "Company":"McDonald's Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Oak Brook, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"MHP",
+    "Company":"McGraw-Hill",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"MCK",
+    "Company":"McKesson Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"San Francisco, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"MJN",
+    "Company":"Mead Johnson",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Glenview, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"MWV",
+    "Company":"MeadWestvaco Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Richmond, Virginia",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"MDT",
+    "Company":"Medtronic Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Fridley, Minnesota",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"MRK",
+    "Company":"Merck & Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Whitehouse Station, New Jersey",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"MET",
+    "Company":"MetLife Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"PCS",
+    "Company":"MetroPCS Communications Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Telecommunications Services",
+    "Address of Headquarters":"Richardson, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"MCHP",
+    "Company":"Microchip Technology",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Chandler, Arizona",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"MU",
+    "Company":"Micron Technology",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Boise, Idaho",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"MSFT",
+    "Company":"Microsoft Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Redmond, Washington",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"MOLX",
+    "Company":"Molex Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Lisle, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"TAP",
+    "Company":"Molson Coors Brewing Company",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Denver, Colorado",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"MDLZ",
+    "Company":"Mondelez International",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Northfield, Illinois",
+    "Date first added":"2012-10-02"
+  },
+  {
+    "Ticker symbol":"MON",
+    "Company":"Monsanto Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Creve Coeur, Missouri",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"MNST",
+    "Company":"Monster Beverage",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Corona, California",
+    "Date first added":"2012-06-28"
+  },
+  {
+    "Ticker symbol":"MCO",
+    "Company":"Moody's Corp",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"MS",
+    "Company":"Morgan Stanley",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"MOS",
+    "Company":"The Mosaic Company",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Plymouth, Minnesota",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"MSI",
+    "Company":"Motorola Solutions Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Schaumburg, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"MUR",
+    "Company":"Murphy Oil",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"El Dorado, Arkansas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"MYL",
+    "Company":"Mylan Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Canonsburg, Pennsylvania",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"NBR",
+    "Company":"Nabors Industries Ltd.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Hamilton, Bermuda",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"NDAQ",
+    "Company":"NASDAQ OMX Group",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"NOV",
+    "Company":"National Oilwell Varco Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"NTAP",
+    "Company":"NetApp",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Sunnyvale, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"NFLX",
+    "Company":"NetFlix Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Los Gatos, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"NWL",
+    "Company":"Newell Rubbermaid Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Sandy Springs, Georgia",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"NFX",
+    "Company":"Newfield Exploration Co",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"NEM",
+    "Company":"Newmont Mining Corp. (Hldg. Co.)",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Denver, Colorado",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"NWSA",
+    "Company":"News Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"NEE",
+    "Company":"NextEra Energy Resources",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Juno Beach, Florida",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"NKE",
+    "Company":"NIKE Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Washington County, Oregon",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"NI",
+    "Company":"NiSource Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Merrillville, Indiana",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"NE",
+    "Company":"Noble Corp",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Geneva, Switzerland",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"NBL",
+    "Company":"Noble Energy Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"JWN",
+    "Company":"Nordstrom",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Seattle, Washington",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"NSC",
+    "Company":"Norfolk Southern Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Norfolk, Virginia",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"NTRS",
+    "Company":"Northern Trust Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Chicago, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"NOC",
+    "Company":"Northrop Grumman Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"West Falls Church, Virginia",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"NU",
+    "Company":"Northeast Utilities",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Berlin, Connecticut",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"NRG",
+    "Company":"NRG Energy",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Princeton, New Jersey",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"NUE",
+    "Company":"Nucor Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Charlotte, North Carolina",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"NVDA",
+    "Company":"Nvidia Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Santa Clara, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"NYX",
+    "Company":"NYSE Euronext",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ORLY",
+    "Company":"O'Reilly Automotive",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Springfield, Missouri",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"OXY",
+    "Company":"Occidental Petroleum",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Los Angeles, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"OMC",
+    "Company":"Omnicom Group",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"OKE",
+    "Company":"ONEOK",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Tulsa, Oklahoma",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"ORCL",
+    "Company":"Oracle Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Redwood Shores, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"OI",
+    "Company":"Owens-Illinois Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Perrysburg, Ohio",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"PCAR",
+    "Company":"PACCAR Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Bellevue, Washington",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"PLL",
+    "Company":"Pall Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Port Washington, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"PH",
+    "Company":"Parker-Hannifin",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Cleveland, Ohio",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"PDCO",
+    "Company":"Patterson Companies",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"St. Paul, Minnesota",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"PAYX",
+    "Company":"Paychex Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Penfield, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"BTU",
+    "Company":"Peabody Energy",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"St. Louis, Missouri",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"JCP",
+    "Company":"Penney (J.C.)",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Plano, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"PNR",
+    "Company":"Pentair Ltd.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Schaffhausen, Switzerland",
+    "Date first added":"2012-10-01"
+  },
+  {
+    "Ticker symbol":"PBCT",
+    "Company":"People's United Bank",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Bridgeport, Connecticut",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"POM",
+    "Company":"Pepco Holdings Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Washington D.C",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"PEP",
+    "Company":"PepsiCo Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Purchase, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"PKI",
+    "Company":"PerkinElmer",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Waltham, Massachusetts",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"PRGO",
+    "Company":"Perrigo",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Allegan, Michigan",
+    "Date first added":"2011-12-16"
+  },
+  {
+    "Ticker symbol":"PETM",
+    "Company":"PetSmart, Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Phoenix, Arizona",
+    "Date first added":"2012-10-10"
+  },
+  {
+    "Ticker symbol":"PFE",
+    "Company":"Pfizer Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"PCG",
+    "Company":"PG&E Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"San Francisco, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"PM",
+    "Company":"Philip Morris International",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"PSX",
+    "Company":"Phillips 66",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":"2012-04-30"
+  },
+  {
+    "Ticker symbol":"PNW",
+    "Company":"Pinnacle West Capital",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Phoenix, Arizona",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"PXD",
+    "Company":"Pioneer Natural Resources",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Irving, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"PBI",
+    "Company":"Pitney-Bowes",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Stamford, Connecticut",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"PCL",
+    "Company":"Plum Creek Timber Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Seattle, Washington",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"PNC",
+    "Company":"PNC Financial Services",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Pittsburgh, Pennsylvania",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"RL",
+    "Company":"Polo Ralph Lauren Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"PPG",
+    "Company":"PPG Industries",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Pittsburgh, Pennsylvania",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"PPL",
+    "Company":"PPL Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Allentown, Pennsylvania",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"PX",
+    "Company":"Praxair Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Danbury, Connecticut",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"PCP",
+    "Company":"Precision Castparts",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Portland, Oregon",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"PCLN",
+    "Company":"Priceline.com Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Norwalk, Connecticut",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"PFG",
+    "Company":"Principal Financial Group",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Des Moines, Iowa",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"PG",
+    "Company":"Procter & Gamble",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Cincinnati, Ohio",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"PGR",
+    "Company":"Progressive Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Mayfield Village, Ohio",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"PLD",
+    "Company":"ProLogis",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Denver, Colorado",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"PRU",
+    "Company":"Prudential Financial",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Newark, New Jersey",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"PEG",
+    "Company":"Public Serv. Enterprise Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Newark, New Jersey",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"PSA",
+    "Company":"Public Storage",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Glendale, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"PHM",
+    "Company":"Pulte Homes Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Bloomfield Hills, Michigan",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"QEP",
+    "Company":"QEP Resources",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Denver, Colorado[6]",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"PWR",
+    "Company":"Quanta Services Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"QCOM",
+    "Company":"QUALCOMM Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"San Diego, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DGX",
+    "Company":"Quest Diagnostics",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Madison, New Jersey",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"RRC",
+    "Company":"Range Resources Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Fort Worth, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"RTN",
+    "Company":"Raytheon Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Waltham, Massachusetts",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"RHT",
+    "Company":"Red Hat Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Raleigh, North Carolina",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"RF",
+    "Company":"Regions Financial Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Birmingham, Alabama",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"RSG",
+    "Company":"Republic Services Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Phoenix, Arizona",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"RAI",
+    "Company":"Reynolds American Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Winston-Salem, North Carolina",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"RHI",
+    "Company":"Robert Half International",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Menlo Park, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ROK",
+    "Company":"Rockwell Automation Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Milwaukee, Wisconsin",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"COL",
+    "Company":"Rockwell Collins",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Cedar Rapids, Iowa",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"ROP",
+    "Company":"Roper Industries",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Sarasota, Florida",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"ROST",
+    "Company":"Ross Stores Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Pleasanton, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"RDC",
+    "Company":"Rowan Cos.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"R",
+    "Company":"Ryder System",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Miami, Florida",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"SWY",
+    "Company":"Safeway Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Pleasanton, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"SAI",
+    "Company":"SAIC",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"McLean, Virginia",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"CRM",
+    "Company":"Salesforce.com",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"San Francisco, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"SNDK",
+    "Company":"SanDisk Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Milpitas, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"SCG",
+    "Company":"SCANA Corp",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Cayce, South Carolina",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"SLB",
+    "Company":"Schlumberger Ltd.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"SNI",
+    "Company":"Scripps Networks Interactive Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Cincinnati, Ohio",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"STX",
+    "Company":"Seagate Technology",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Dublin, Ireland",
+    "Date first added":"2012-06-29"
+  },
+  {
+    "Ticker symbol":"SEE",
+    "Company":"Sealed Air Corp.(New)",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Elmwood Park, New Jersey",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"SRE",
+    "Company":"Sempra Energy",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"San Diego, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"SHW",
+    "Company":"Sherwin-Williams",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Cleveland, Ohio",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"SIAL",
+    "Company":"Sigma-Aldrich",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"St. Louis, Missouri",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"SPG",
+    "Company":"Simon Property Group Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Indianapolis, Indiana",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"SLM",
+    "Company":"SLM Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Newark, Delaware",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"SJM",
+    "Company":"Smucker (J.M.)",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Orrville, Ohio",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"SNA",
+    "Company":"Snap-On Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Kenosha, Wisconsin",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"SO",
+    "Company":"Southern Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Atlanta, Georgia",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"LUV",
+    "Company":"Southwest Airlines",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Dallas, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"SWN",
+    "Company":"Southwestern Energy",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Houston, Texas[7]",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"SE",
+    "Company":"Spectra Energy Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"S",
+    "Company":"Sprint Nextel Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Telecommunications Services",
+    "Address of Headquarters":"Overland Park, Kansas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"STJ",
+    "Company":"St Jude Medical",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Little Canada, Minnesota",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"SWK",
+    "Company":"Stanley Black & Decker",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"New Britain, Connecticut",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"SPLS",
+    "Company":"Staples Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Framingham, Massachusetts",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"SBUX",
+    "Company":"Starbucks Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Seattle, Washington",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"HOT",
+    "Company":"Starwood Hotels & Resorts",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"White Plains, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"STT",
+    "Company":"State Street Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Boston, Massachusetts",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"SRCL",
+    "Company":"Stericycle Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Lake Forest, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"SYK",
+    "Company":"Stryker Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Kalamazoo, Michigan",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"STI",
+    "Company":"SunTrust Banks",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Atlanta, Georgia",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"SYMC",
+    "Company":"Symantec Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Mountain View, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"SYY",
+    "Company":"Sysco Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"TROW",
+    "Company":"T. Rowe Price Group",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Baltimore, Maryland",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"TGT",
+    "Company":"Target Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Minneapolis, Minnesota",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"TEL",
+    "Company":"TE Connectivity Ltd.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Schaffhausen, Switzerland",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"TE",
+    "Company":"TECO Energy",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Tampa, Florida",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"THC",
+    "Company":"Tenet Healthcare Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Dallas, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"TDC",
+    "Company":"Teradata Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Miamisburg, Ohio",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"TER",
+    "Company":"Teradyne Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"North Reading, Massachusetts",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"TSO",
+    "Company":"Tesoro Petroleum Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"San Antonio, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"TXN",
+    "Company":"Texas Instruments",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Dallas, Texas",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"TXT",
+    "Company":"Textron Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Providence, Rhode Island",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"HSY",
+    "Company":"The Hershey Company",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Hershey, Pennsylvania",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"TRV",
+    "Company":"The Travelers Companies Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"TMO",
+    "Company":"Thermo Fisher Scientific",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Waltham, Massachusetts",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"TIF",
+    "Company":"Tiffany & Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"TWX",
+    "Company":"Time Warner Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"TWC",
+    "Company":"Time Warner Cable Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"TJX",
+    "Company":"TJX Companies Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Framingham, Massachusetts",
+    "Date first added":null
+  },
+  {
+    "Ticker symbol":"TMK",
+    "Company":"Torchmark Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"McKinney, Texas",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"TSS",
+    "Company":"Total System Services",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Columbus, Georgia",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"TRIP",
+    "Company":"TripAdvisor",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Newton, Massachusetts",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"TSN",
+    "Company":"Tyson Foods",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Springdale, Arkansas",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"TYC",
+    "Company":"Tyco International",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Schaffhausen, Switzerland",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"USB",
+    "Company":"U.S. Bancorp",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Minneapolis, Minnesota",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"UNP",
+    "Company":"Union Pacific",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Omaha, Nebraska",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"UNH",
+    "Company":"United Health Group Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Minnetonka, Minnesota",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"UPS",
+    "Company":"United Parcel Service",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Atlanta, Georgia",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"X",
+    "Company":"United States Steel Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Pittsburgh, Pennsylvania",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"UTX",
+    "Company":"United Technologies",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Hartford, Connecticut",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"UNM",
+    "Company":"Unum Group",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Chattanooga, Tennessee",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"URBN",
+    "Company":"Urban Outfitters",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Philadelphia, Pennsylvania",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"VFC",
+    "Company":"V.F. Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Greensboro, North Carolina",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"VLO",
+    "Company":"Valero Energy",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"San Antonio, Texas",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"VAR",
+    "Company":"Varian Medical Systems",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Palo Alto, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"VTR",
+    "Company":"Ventas Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Chicago, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"VRSN",
+    "Company":"Verisign Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Dulles, Virginia",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"VZ",
+    "Company":"Verizon Communications",
+    "SEC filings":"reports",
+    "GICSSector":"Telecommunications Services",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"VIAB",
+    "Company":"Viacom Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"V",
+    "Company":"Visa Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"San Francisco, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"VNO",
+    "Company":"Vornado Realty Trust",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"New York, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"VMC",
+    "Company":"Vulcan Materials",
+    "SEC filings":"reports",
+    "GICSSector":"Materials",
+    "Address of Headquarters":"Birmingham, Alabama",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"WMT",
+    "Company":"Wal-Mart Stores",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Bentonville, Arkansas",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"WAG",
+    "Company":"Walgreen Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Deerfield, Illinois",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"DIS",
+    "Company":"The Walt Disney Company",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Burbank, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"WPO",
+    "Company":"Washington Post Co B",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Washington D.C",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"WM",
+    "Company":"Waste Management Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"Houston, Texas",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"WAT",
+    "Company":"Waters Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Milford, Massachusetts",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"WLP",
+    "Company":"WellPoint Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Indianapolis, Indiana",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"WFC",
+    "Company":"Wells Fargo",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"San Francisco, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"WDC",
+    "Company":"Western Digital",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Irvine, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"WU",
+    "Company":"Western Union Co",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Englewood, Colorado",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"WY",
+    "Company":"Weyerhaeuser Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Federal Way, Washington",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"WHR",
+    "Company":"Whirlpool Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Benton Harbor, Michigan",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"WFM",
+    "Company":"Whole Foods Market",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples",
+    "Address of Headquarters":"Austin, Texas",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"WMB",
+    "Company":"Williams Cos.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Tulsa, Oklahoma",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"WIN",
+    "Company":"Windstream Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Telecommunications Services",
+    "Address of Headquarters":"Little Rock, Arkansas",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"WEC",
+    "Company":"Wisconsin Energy Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Milwaukee, Wisconsin",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"WPX",
+    "Company":"WPX Energy, Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy",
+    "Address of Headquarters":"Tulsa, Oklahoma",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"WYN",
+    "Company":"Wyndham Worldwide",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Parsippany, New Jersey",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"WYNN",
+    "Company":"Wynn Resorts Ltd",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Las Vegas, Nevada",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"XEL",
+    "Company":"Xcel Energy Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities",
+    "Address of Headquarters":"Minneapolis, Minnesota",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"XRX",
+    "Company":"Xerox Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Norwalk, Connecticut",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"XLNX",
+    "Company":"Xilinx Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"San Jose, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"XL",
+    "Company":"XL Capital",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Hamilton, Bermuda",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"XYL",
+    "Company":"Xylem Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials",
+    "Address of Headquarters":"White Plains, New York",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"YHOO",
+    "Company":"Yahoo Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology",
+    "Address of Headquarters":"Sunnyvale, California",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"YUM",
+    "Company":"Yum! Brands Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary",
+    "Address of Headquarters":"Louisville, Kentucky",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ZMH",
+    "Company":"Zimmer Holdings",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care",
+    "Address of Headquarters":"Warsaw, Indiana",
+    "Date first added":""
+  },
+  {
+    "Ticker symbol":"ZION",
+    "Company":"Zions Bancorp",
+    "SEC filings":"reports",
+    "GICSSector":"Financials",
+    "Address of Headquarters":"Salt Lake City, Utah",
+    "Date first added":""
+  }
+]
