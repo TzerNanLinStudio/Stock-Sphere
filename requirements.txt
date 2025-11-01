@@ -1,0 +1,13 @@
+mysql-connector-python
+PyMySQL
+pandas
+openpyxl
+ortools
+pytest
+fastapi
+uvicorn
+python-multipart
+black
+yfinance
+requests 
+beautifulsoup4

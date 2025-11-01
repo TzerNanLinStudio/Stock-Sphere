@@ -1,0 +1,2996 @@
+[
+  {
+    "Ticker symbol":"MMM",
+    "Company":"3M Company",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"ABT",
+    "Company":"Abbott Laboratories",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"ANF",
+    "Company":"Abercrombie & Fitch Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"ADBE",
+    "Company":"Adobe Systems",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"AMD",
+    "Company":"Advanced Micro Devices",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"AES",
+    "Company":"AES Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"AET",
+    "Company":"Aetna Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"ACS",
+    "Company":"Affiliated Computer Services",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"AFL",
+    "Company":"AFLAC Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"A",
+    "Company":"Agilent Technologies",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"APD",
+    "Company":"Air Products & Chemicals",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"AKAM",
+    "Company":"Akamai Technologies Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"AKS",
+    "Company":"AK Steel Holding Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"AA",
+    "Company":"Alcoa Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"AYE",
+    "Company":"Allegheny Energy",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"ATI",
+    "Company":"Allegheny Technologies Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"AGN",
+    "Company":"Allergan Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"ALL",
+    "Company":"Allstate Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"ALTR",
+    "Company":"Altera Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"MO",
+    "Company":"Altria Group Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"AMZN",
+    "Company":"Amazon Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"AEE",
+    "Company":"Ameren Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"AEP",
+    "Company":"American Electric Power",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"AXP",
+    "Company":"American Express",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"AIG",
+    "Company":"American International Group",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"AMT",
+    "Company":"American Tower Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Telecommunications Services"
+  },
+  {
+    "Ticker symbol":"AMP",
+    "Company":"Ameriprise Financial Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"ABC",
+    "Company":"AmerisourceBergen Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"AMGN",
+    "Company":"Amgen",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"APC",
+    "Company":"Anadarko Petroleum Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"ADI",
+    "Company":"Analog Devices",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"AON",
+    "Company":"Aon Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"APA",
+    "Company":"Apache Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"AIV",
+    "Company":"AIMCO",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"APOL",
+    "Company":"Apollo Group",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"AAPL",
+    "Company":"Apple Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"AMAT",
+    "Company":"Applied Materials",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"ADM",
+    "Company":"Archer Daniels Midland",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"ASH",
+    "Company":"Ashland Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"AIZ",
+    "Company":"Assurant Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"T",
+    "Company":"AT&T Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Telecommunications Services"
+  },
+  {
+    "Ticker symbol":"ADSK",
+    "Company":"Autodesk Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"ADP",
+    "Company":"Automatic Data Processing Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"AN",
+    "Company":"AutoNation Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"AZO",
+    "Company":"AutoZone Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"AVB",
+    "Company":"AvalonBay Communities",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"AVY",
+    "Company":"Avery Dennison Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"AVP",
+    "Company":"Avon Products",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"BHI",
+    "Company":"Baker Hughes",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"BLL",
+    "Company":"Ball Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"BAC",
+    "Company":"Bank of America Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"BK",
+    "Company":"Bank of New York Mellon Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"BCR",
+    "Company":"Bard (C.R.) Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"BAX",
+    "Company":"Baxter International Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"BBT",
+    "Company":"BB&T Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"BDX",
+    "Company":"Becton Dickinson",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"BBBY",
+    "Company":"Bed Bath & Beyond",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"BMS",
+    "Company":"Bemis Company",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"BRK.B",
+    "Company":"Berkshire Hathaway",
+    "SEC filings":"[]",
+    "GICSSector":""
+  },
+  {
+    "Ticker symbol":"BBY",
+    "Company":"Best Buy Co. Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"BIG",
+    "Company":"Big Lots Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"BIIB",
+    "Company":"BIOGEN IDEC Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"BJS",
+    "Company":"BJ Services Company",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"BDK",
+    "Company":"Black & Decker Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"HRB",
+    "Company":"Block H&R",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"BMC",
+    "Company":"BMC Software",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"BA",
+    "Company":"Boeing Company",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"BXP",
+    "Company":"Boston Properties",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"BSX",
+    "Company":"Boston Scientific",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"BMY",
+    "Company":"Bristol-Myers Squibb",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"BRCM",
+    "Company":"Broadcom Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"BF.B",
+    "Company":"Brown-Forman Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"CHRW",
+    "Company":"C. H. Robinson Worldwide",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"CA",
+    "Company":"CA, Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"COG",
+    "Company":"Cabot Oil & Gas",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"CAM",
+    "Company":"Cameron International Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"CPB",
+    "Company":"Campbell Soup",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"COF",
+    "Company":"Capital One Financial",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"CAH",
+    "Company":"Cardinal Health Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"CFN",
+    "Company":"Carefusion Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"CCL",
+    "Company":"Carnival Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"CAT",
+    "Company":"Caterpillar Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"CBG",
+    "Company":"CB Richard Ellis Group",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"CBS",
+    "Company":"CBS Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"CELG",
+    "Company":"Celgene Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"CNP",
+    "Company":"CenterPoint Energy",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"CTL",
+    "Company":"CenturyTel Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Telecommunications Services"
+  },
+  {
+    "Ticker symbol":"CEPH",
+    "Company":"Cephalon Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Telecommunications Services"
+  },
+  {
+    "Ticker symbol":"CF",
+    "Company":"CF Industries Holdings Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"SCHW",
+    "Company":"Charles Schwab",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"CHK",
+    "Company":"Chesapeake Energy",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"CVX",
+    "Company":"Chevron Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"CB",
+    "Company":"Chubb Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"CI",
+    "Company":"CIGNA Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"CINF",
+    "Company":"Cincinnati Financial",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"CTAS",
+    "Company":"Cintas Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"CSCO",
+    "Company":"Cisco Systems",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"C",
+    "Company":"Citigroup Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"CTXS",
+    "Company":"Citrix Systems",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"CLF",
+    "Company":"Cliffs Natural Resources",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"CLX",
+    "Company":"Clorox Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"CME",
+    "Company":"CME Group Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"CMS",
+    "Company":"CMS Energy",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"COH",
+    "Company":"Coach Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"KO",
+    "Company":"Coca Cola Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"CCE",
+    "Company":"Coca-Cola Enterprises",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"CTSH",
+    "Company":"Cognizant Technology Solutions",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"CL",
+    "Company":"Colgate-Palmolive",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"CMCSA",
+    "Company":"Comcast Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"CMA",
+    "Company":"Comerica Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"CSC",
+    "Company":"Computer Sciences Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"CPWR",
+    "Company":"Compuware Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"CAG",
+    "Company":"ConAgra Foods Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"COP",
+    "Company":"ConocoPhillips",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"CNX",
+    "Company":"CONSOL Energy Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"ED",
+    "Company":"Consolidated Edison",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"STZ",
+    "Company":"Constellation Brands",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"CEG",
+    "Company":"Constellation Energy Group",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"CBE",
+    "Company":"Cooper Industries Ltd.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"GLW",
+    "Company":"Corning Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"COST",
+    "Company":"Costco Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"CVH",
+    "Company":"Coventry Health Care Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"CSX",
+    "Company":"CSX Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"CMI",
+    "Company":"Cummins Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"CVS",
+    "Company":"CVS Caremark Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"DHI",
+    "Company":"D. R. Horton",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"DHR",
+    "Company":"Danaher Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"DRI",
+    "Company":"Darden Restaurants",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"DVA",
+    "Company":"DaVita Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"DF",
+    "Company":"Dean Foods",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"DE",
+    "Company":"Deere & Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"DELL",
+    "Company":"Dell Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"DNR",
+    "Company":"Denbury Resources Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"XRAY",
+    "Company":"Dentsply Intl",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"DVN",
+    "Company":"Devon Energy Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"DV",
+    "Company":"DeVry, Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"DO",
+    "Company":"Diamond Offshore Drilling",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"DTV",
+    "Company":"DIRECTV Group Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"DFS",
+    "Company":"Discover Financial Services",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"D",
+    "Company":"Dominion Resources",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"RRD",
+    "Company":"Donnelley (R.R.) & Sons",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"DOV",
+    "Company":"Dover Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"DOW",
+    "Company":"Dow Chemical",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"DPS",
+    "Company":"Dr Pepper Snapple Group",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"DTE",
+    "Company":"DTE Energy Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"DD",
+    "Company":"Du Pont (E.I.)",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"DUK",
+    "Company":"Duke Energy",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"DNB",
+    "Company":"Dun & Bradstreet",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"ETFC",
+    "Company":"E-Trade",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"EMN",
+    "Company":"Eastman Chemical",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"EK",
+    "Company":"Eastman Kodak",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"ETN",
+    "Company":"Eaton Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"EBAY",
+    "Company":"eBay Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"ECL",
+    "Company":"Ecolab Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"EIX",
+    "Company":"Edison Int'l",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"EP",
+    "Company":"El Paso Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"ERTS",
+    "Company":"Electronic Arts",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"EMC",
+    "Company":"EMC Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"EMR",
+    "Company":"Emerson Electric",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"ETR",
+    "Company":"Entergy Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"EOG",
+    "Company":"EOG Resources",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"EQT",
+    "Company":"EQT Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"EFX",
+    "Company":"Equifax Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"EQR",
+    "Company":"Equity Residential",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"EL",
+    "Company":"Estee Lauder Cos.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"EXC",
+    "Company":"Exelon Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"EXPE",
+    "Company":"Expedia Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"EXPD",
+    "Company":"Expeditors Int'l",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"ESRX",
+    "Company":"Express Scripts",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"XOM",
+    "Company":"Exxon Mobil Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"FDO",
+    "Company":"Family Dollar Stores",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"FAST",
+    "Company":"Fastenal Co",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"FII",
+    "Company":"Federated Investors Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"FDX",
+    "Company":"FedEx Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"FIS",
+    "Company":"Fidelity National Information Services",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"FITB",
+    "Company":"Fifth Third Bancorp",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"FHN",
+    "Company":"First Horizon National",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"FSLR",
+    "Company":"First Solar Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"FE",
+    "Company":"FirstEnergy Corp",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"FISV",
+    "Company":"Fiserv Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"FLIR",
+    "Company":"FLIR Systems",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"FLS",
+    "Company":"Flowserve Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"FLR",
+    "Company":"Fluor Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"FMC",
+    "Company":"FMC Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"FTI",
+    "Company":"FMC Technologies Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"F",
+    "Company":"Ford Motor",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"FRX",
+    "Company":"Forest Laboratories",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"FO",
+    "Company":"Fortune Brands Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"FPL",
+    "Company":"FPL Group",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"BEN",
+    "Company":"Franklin Resources",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"FCX",
+    "Company":"Freeport-McMoran Cp & Gld",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"FTR",
+    "Company":"Frontier Communications",
+    "SEC filings":"reports",
+    "GICSSector":"Telecommunications Services"
+  },
+  {
+    "Ticker symbol":"GME",
+    "Company":"GameStop Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"GCI",
+    "Company":"Gannett Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"GPS",
+    "Company":"Gap (The)",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"GD",
+    "Company":"General Dynamics",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"GE",
+    "Company":"General Electric",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"GIS",
+    "Company":"General Mills",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"GPC",
+    "Company":"Genuine Parts",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"GNW",
+    "Company":"Genworth Financial Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"GENZ",
+    "Company":"Genzyme Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"GILD",
+    "Company":"Gilead Sciences",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"GS",
+    "Company":"Goldman Sachs Group",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"GR",
+    "Company":"Goodrich Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"GT",
+    "Company":"Goodyear Tire & Rubber",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"GOOG",
+    "Company":"Google Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"GWW",
+    "Company":"Grainger (W.W.) Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"HAL",
+    "Company":"Halliburton Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"HOG",
+    "Company":"Harley-Davidson",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"HAR",
+    "Company":"Harman Int'l Industries",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"HRS",
+    "Company":"Harris Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"HIG",
+    "Company":"Hartford Financial Svc.Gp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"HAS",
+    "Company":"Hasbro Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"HCP",
+    "Company":"HCP Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"HCN",
+    "Company":"Health Care REIT",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"HNZ",
+    "Company":"Heinz (H.J.)",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"HES",
+    "Company":"Hess Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"HPQ",
+    "Company":"Hewlett-Packard",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"HD",
+    "Company":"Home Depot",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"HON",
+    "Company":"Honeywell Int'l Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"HRL",
+    "Company":"Hormel Foods Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"HSP",
+    "Company":"Hospira Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"HST",
+    "Company":"Host Hotels & Resorts",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"HCBK",
+    "Company":"Hudson City Bancorp",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"HUM",
+    "Company":"Humana Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"HBAN",
+    "Company":"Huntington Bancshares",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"ITW",
+    "Company":"Illinois Tool Works",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"RX",
+    "Company":"IMS Health Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"TEG",
+    "Company":"Integrys Energy Group Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"INTC",
+    "Company":"Intel Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"ICE",
+    "Company":"IntercontinentalExchange Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"IBM",
+    "Company":"International Bus. Machines",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"IFF",
+    "Company":"International Flav\/Frag",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"IGT",
+    "Company":"International Game Technology",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"IP",
+    "Company":"International Paper",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"IPG",
+    "Company":"Interpublic Group",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"INTU",
+    "Company":"Intuit Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"ISRG",
+    "Company":"Intuitive Surgical Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"IVZ",
+    "Company":"Invesco Ltd.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"IRM",
+    "Company":"Iron Mountain Incorporated",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"ITT",
+    "Company":"ITT Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"JBL",
+    "Company":"Jabil Circuit",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"JEC",
+    "Company":"Jacobs Engineering Group",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"JNS",
+    "Company":"Janus Capital Group",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"JDSU",
+    "Company":"JDS Uniphase Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"JNJ",
+    "Company":"Johnson & Johnson",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"JCI",
+    "Company":"Johnson Controls",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"JPM",
+    "Company":"JPMorgan Chase & Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"JNPR",
+    "Company":"Juniper Networks",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"K",
+    "Company":"Kellogg Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"KEY",
+    "Company":"KeyCorp",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"KMB",
+    "Company":"Kimberly-Clark",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"KIM",
+    "Company":"Kimco Realty",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"KG",
+    "Company":"King Pharmaceuticals",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"KLAC",
+    "Company":"KLA-Tencor Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"KSS",
+    "Company":"Kohl's Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"KFT",
+    "Company":"Kraft Foods Inc-A",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"KR",
+    "Company":"Kroger Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"LLL",
+    "Company":"L-3 Communications Holdings",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"LH",
+    "Company":"Laboratory Corp. of America Holding",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"LM",
+    "Company":"Legg Mason",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"LEG",
+    "Company":"Leggett & Platt",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"LEN",
+    "Company":"Lennar Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"LUK",
+    "Company":"Leucadia National Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"LXK",
+    "Company":"Lexmark Int'l Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"LIFE",
+    "Company":"Life Technologies",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"LLY",
+    "Company":"Lilly (Eli) & Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"LTD",
+    "Company":"Limited Brands Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"LNC",
+    "Company":"Lincoln National",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"LLTC",
+    "Company":"Linear Technology Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"LMT",
+    "Company":"Lockheed Martin Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"L",
+    "Company":"Loews Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"LO",
+    "Company":"Lorillard Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"LOW",
+    "Company":"Lowe's Cos.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"LSI",
+    "Company":"LSI Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"MTB",
+    "Company":"M&T Bank Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"M",
+    "Company":"Macy's Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"MRO",
+    "Company":"Marathon Oil Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"MAR",
+    "Company":"Marriott Int'l.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"MMC",
+    "Company":"Marsh & McLennan",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"MI",
+    "Company":"Marshall & Ilsley Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"MAS",
+    "Company":"Masco Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"MEE",
+    "Company":"Massey Energy Company",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"MA",
+    "Company":"Mastercard Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"MAT",
+    "Company":"Mattel Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"MFE",
+    "Company":"McAfee",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"MKC",
+    "Company":"McCormick & Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"MCD",
+    "Company":"McDonald's Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"MHP",
+    "Company":"McGraw-Hill",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"MCK",
+    "Company":"McKesson Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"MJN",
+    "Company":"Mead Johnson",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"MWV",
+    "Company":"MeadWestvaco Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"MHS",
+    "Company":"Medco Health Solutions Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"MDT",
+    "Company":"Medtronic Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"WFR",
+    "Company":"MEMC Electronic Materials",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"MRK",
+    "Company":"Merck & Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"MDP",
+    "Company":"Meredith Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"MET",
+    "Company":"MetLife Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"PCS",
+    "Company":"MetroPCS Communications Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Telecommunications Services"
+  },
+  {
+    "Ticker symbol":"MCHP",
+    "Company":"Microchip Technology",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"MU",
+    "Company":"Micron Technology",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"MSFT",
+    "Company":"Microsoft Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"MIL",
+    "Company":"Millipore Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"MOLX",
+    "Company":"Molex Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"TAP",
+    "Company":"Molson Coors Brewing Company",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"MON",
+    "Company":"Monsanto Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"MWW",
+    "Company":"Monster Worldwide",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"MCO",
+    "Company":"Moody's Corp",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"MS",
+    "Company":"Morgan Stanley",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"MOT",
+    "Company":"Motorola Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"MXB",
+    "Company":"MSCI",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"MUR",
+    "Company":"Murphy Oil",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"MYL",
+    "Company":"Mylan Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"NBR",
+    "Company":"Nabors Industries Ltd.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"NDAQ",
+    "Company":"NASDAQ OMX Group",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"NOV",
+    "Company":"National Oilwell Varco Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"NSM",
+    "Company":"National Semiconductor",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"NTAP",
+    "Company":"NetApp",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"NYT",
+    "Company":"New York Times Cl. A",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"NWL",
+    "Company":"Newell Rubbermaid Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"NEM",
+    "Company":"Newmont Mining Corp. (Hldg. Co.)",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"NWSA",
+    "Company":"News Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"GAS",
+    "Company":"NICOR Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"NKE",
+    "Company":"NIKE Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"NI",
+    "Company":"NiSource Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"NBL",
+    "Company":"Noble Energy Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"JWN",
+    "Company":"Nordstrom",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"NSC",
+    "Company":"Norfolk Southern Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"NTRS",
+    "Company":"Northern Trust Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"NOC",
+    "Company":"Northrop Grumman Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"NU",
+    "Company":"Northeast Utilities",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"NOVL",
+    "Company":"Novell Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"NVLS",
+    "Company":"Novellus Systems",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"NUE",
+    "Company":"Nucor Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"NVDA",
+    "Company":"Nvidia Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"NYX",
+    "Company":"NYSE Euronext",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"ORLY",
+    "Company":"O'Reilly Automotive",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"OXY",
+    "Company":"Occidental Petroleum",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"ODP",
+    "Company":"Office Depot",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"OMC",
+    "Company":"Omnicom Group",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"ORCL",
+    "Company":"Oracle Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"OI",
+    "Company":"Owens-Illinois Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"PCAR",
+    "Company":"PACCAR Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"PTV",
+    "Company":"Pactiv Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"PLL",
+    "Company":"Pall Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"PH",
+    "Company":"Parker-Hannifin",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"PDCO",
+    "Company":"Patterson Cos Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"PAYX",
+    "Company":"Paychex Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"BTU",
+    "Company":"Peabody Energy",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"JCP",
+    "Company":"Penney (J.C.)",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"PBCT",
+    "Company":"People's United Bank",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"POM",
+    "Company":"Pepco Holdings Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"PBG",
+    "Company":"Pepsi Bottling Group",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"PEP",
+    "Company":"PepsiCo Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"PKI",
+    "Company":"PerkinElmer",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"PFE",
+    "Company":"Pfizer Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"PCG",
+    "Company":"PG&E Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"PM",
+    "Company":"Philip Morris International",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"PNW",
+    "Company":"Pinnacle West Capital",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"PXD",
+    "Company":"Pioneer Natural Resources",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"PBI",
+    "Company":"Pitney-Bowes",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"PCL",
+    "Company":"Plum Creek Timber Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"PNC",
+    "Company":"PNC Financial Services",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"RL",
+    "Company":"Polo Ralph Lauren Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"PPG",
+    "Company":"PPG Industries",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"PPL",
+    "Company":"PPL Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"PX",
+    "Company":"Praxair Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"PCP",
+    "Company":"Precision Castparts",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"PFG",
+    "Company":"Principal Financial Group",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"PG",
+    "Company":"Procter & Gamble",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"PGN",
+    "Company":"Progress Energy Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"PGR",
+    "Company":"Progressive Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"PLD",
+    "Company":"ProLogis",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"PRU",
+    "Company":"Prudential Financial",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"PEG",
+    "Company":"Public Serv. Enterprise Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"PSA",
+    "Company":"Public Storage",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"PHM",
+    "Company":"Pulte Homes Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"QLGC",
+    "Company":"QLogic Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"PWR",
+    "Company":"Quanta Services Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"QCOM",
+    "Company":"QUALCOMM Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"DGX",
+    "Company":"Quest Diagnostics",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"STR",
+    "Company":"Questar Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"Q",
+    "Company":"Qwest Communications Int",
+    "SEC filings":"reports",
+    "GICSSector":"Telecommunications Services"
+  },
+  {
+    "Ticker symbol":"RSH",
+    "Company":"RadioShack Corp",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"RRC",
+    "Company":"Range Resources Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"RTN",
+    "Company":"Raytheon Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"RHT",
+    "Company":"Red Hat Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"RF",
+    "Company":"Regions Financial Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"RSG",
+    "Company":"Republic Services Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"RAI",
+    "Company":"Reynolds American Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"RHI",
+    "Company":"Robert Half International",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"ROK",
+    "Company":"Rockwell Automation Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"COL",
+    "Company":"Rockwell Collins",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"ROP",
+    "Company":"Roper Industries",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"ROST",
+    "Company":"Ross Stores Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"RDC",
+    "Company":"Rowan Cos.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"R",
+    "Company":"Ryder System",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"SWY",
+    "Company":"Safeway Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"SAI",
+    "Company":"SAIC",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"CRM",
+    "Company":"Salesforce.com",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"SNDK",
+    "Company":"SanDisk Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"SLE",
+    "Company":"Sara Lee Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"SCG",
+    "Company":"SCANA Corp",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"SLB",
+    "Company":"Schlumberger Ltd.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"SNI",
+    "Company":"Scripps Networks Interactive Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"SEE",
+    "Company":"Sealed Air Corp.(New)",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"SHLD",
+    "Company":"Sears Holdings Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"SRE",
+    "Company":"Sempra Energy",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"SHW",
+    "Company":"Sherwin-Williams",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"SIAL",
+    "Company":"Sigma-Aldrich",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"SPG",
+    "Company":"Simon Property Group Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"SLM",
+    "Company":"SLM Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"SII",
+    "Company":"Smith International",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"SJM",
+    "Company":"Smucker (J.M.)",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"SNA",
+    "Company":"Snap-On Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"SO",
+    "Company":"Southern Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"LUV",
+    "Company":"Southwest Airlines",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"SWN",
+    "Company":"Southwestern Energy",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"SE",
+    "Company":"Spectra Energy Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"S",
+    "Company":"Sprint Nextel Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Telecommunications Services"
+  },
+  {
+    "Ticker symbol":"STJ",
+    "Company":"St Jude Medical",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"SWK",
+    "Company":"Stanley Works",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"SPLS",
+    "Company":"Staples Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"SBUX",
+    "Company":"Starbucks Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"HOT",
+    "Company":"Starwood Hotels & Resorts",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"STT",
+    "Company":"State Street Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"SRCL",
+    "Company":"Stericycle Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"SYK",
+    "Company":"Stryker Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"SUN",
+    "Company":"Sunoco Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"STI",
+    "Company":"SunTrust Banks",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"SVU",
+    "Company":"Supervalu Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"SYMC",
+    "Company":"Symantec Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"SYY",
+    "Company":"Sysco Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"TROW",
+    "Company":"T. Rowe Price Group",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"TGT",
+    "Company":"Target Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"TE",
+    "Company":"TECO Energy",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"TLAB",
+    "Company":"Tellabs Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"THC",
+    "Company":"Tenet Healthcare Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"TDC",
+    "Company":"Teradata Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"TER",
+    "Company":"Teradyne Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"TSO",
+    "Company":"Tesoro Petroleum Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"TXN",
+    "Company":"Texas Instruments",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"TXT",
+    "Company":"Textron Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"HSY",
+    "Company":"The Hershey Company",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"TRV",
+    "Company":"The Travelers Companies Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"TMO",
+    "Company":"Thermo Fisher Scientific",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"TIF",
+    "Company":"Tiffany & Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"TWX",
+    "Company":"Time Warner Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"TWC",
+    "Company":"Time Warner Cable Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"TIE",
+    "Company":"Titanium Metals Corp",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"TJX",
+    "Company":"TJX Companies Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"TMK",
+    "Company":"Torchmark Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"TSS",
+    "Company":"Total System Services",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"TSN",
+    "Company":"Tyson Foods",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"USB",
+    "Company":"U.S. Bancorp",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"UNP",
+    "Company":"Union Pacific",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"UNH",
+    "Company":"United Health Group Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"UPS",
+    "Company":"United Parcel Service",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"X",
+    "Company":"United States Steel Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"UTX",
+    "Company":"United Technologies",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"UNM",
+    "Company":"Unum Group",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"VFC",
+    "Company":"V.F. Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"VLO",
+    "Company":"Valero Energy",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"VAR",
+    "Company":"Varian Medical Systems",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"VTR",
+    "Company":"Ventas Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"VRSN",
+    "Company":"Verisign Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"VZ",
+    "Company":"Verizon Communications",
+    "SEC filings":"reports",
+    "GICSSector":"Telecommunications Services"
+  },
+  {
+    "Ticker symbol":"VIAb",
+    "Company":"Viacom Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"V",
+    "Company":"Visa",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"VNO",
+    "Company":"Vornado Realty Trust",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"VMC",
+    "Company":"Vulcan Materials",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"WMT",
+    "Company":"Wal-Mart Stores",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"WAG",
+    "Company":"Walgreen Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"DIS",
+    "Company":"Walt Disney Co.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"WPO",
+    "Company":"Washington Post Co B",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"WM",
+    "Company":"Waste Management Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Industrials"
+  },
+  {
+    "Ticker symbol":"WAT",
+    "Company":"Waters Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"WPI",
+    "Company":"Watson Pharmaceuticals",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"WLP",
+    "Company":"WellPoint Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"WFC",
+    "Company":"Wells Fargo",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"WDC",
+    "Company":"Western Digital",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"WU",
+    "Company":"Western Union Co",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"WY",
+    "Company":"Weyerhaeuser Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Materials"
+  },
+  {
+    "Ticker symbol":"WHR",
+    "Company":"Whirlpool Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"WFMI",
+    "Company":"Whole Foods Market",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"WMB",
+    "Company":"Williams Cos.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"WIN",
+    "Company":"Windstream Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Telecommunications Services"
+  },
+  {
+    "Ticker symbol":"WEC",
+    "Company":"Wisconsin Energy Corporation",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Staples"
+  },
+  {
+    "Ticker symbol":"WYN",
+    "Company":"Wyndham Worldwide",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"WYNN",
+    "Company":"Wynn Resorts Ltd",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"XEL",
+    "Company":"Xcel Energy Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Utilities"
+  },
+  {
+    "Ticker symbol":"XRX",
+    "Company":"Xerox Corp.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"XLNX",
+    "Company":"Xilinx Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"XL",
+    "Company":"XL Capital",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  },
+  {
+    "Ticker symbol":"XTO",
+    "Company":"XTO Energy Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Energy"
+  },
+  {
+    "Ticker symbol":"YHOO",
+    "Company":"Yahoo Inc.",
+    "SEC filings":"reports",
+    "GICSSector":"Information Technology"
+  },
+  {
+    "Ticker symbol":"YUM",
+    "Company":"Yum! Brands Inc",
+    "SEC filings":"reports",
+    "GICSSector":"Consumer Discretionary"
+  },
+  {
+    "Ticker symbol":"ZMH",
+    "Company":"Zimmer Holdings",
+    "SEC filings":"reports",
+    "GICSSector":"Health Care"
+  },
+  {
+    "Ticker symbol":"ZION",
+    "Company":"Zions Bancorp",
+    "SEC filings":"reports",
+    "GICSSector":"Financials"
+  }
+]
